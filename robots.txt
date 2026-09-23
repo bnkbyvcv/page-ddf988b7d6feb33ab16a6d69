@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nmdrk.cn/sitemap.xml
